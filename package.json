@@ -11,11 +11,14 @@
     "url": "git+https://github.com/MauricioEsparron/electron-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mauricio Ramirez",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/MauricioEsparron/electron-app/issues"
   },
-  "homepage": "https://github.com/MauricioEsparron/electron-app#readme"
+  "homepage": "https://github.com/MauricioEsparron/electron-app#readme",
+  "devDependencies": {
+    "electron": "^37.3.1"
+  }
 }
