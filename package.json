@@ -2,8 +2,9 @@
   "name": "electron-app",
   "version": "1.0.0",
   "description": "Hello World with electron",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,7 +13,7 @@
   },
   "keywords": [],
   "author": "Mauricio Ramirez",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/MauricioEsparron/electron-app/issues"
